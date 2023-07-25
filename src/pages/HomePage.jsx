@@ -35,7 +35,7 @@ const HomePage = () => {
 
   return (
     <Layout>
-      <div className="lg:h-screen bg-[url('src/assets/pattern.svg')] bg-center">
+      <div className="lg:h-screen bg-[url('../pattern.svg')] bg-center">
         <div className="container mx-auto my-16 p-5">
           <div className="grid grid-cols-1 p-8 justify-center">
             <div

@@ -55,7 +55,7 @@ const ExpensePage = () => {
 
   return (
     <Layout>
-      <div className="sm:h-screen bg-[url('src/assets/pattern.svg')] bg-center">
+      <div className="sm:h-screen bg-[url('../pattern.svg')] bg-center">
         <div className="container mx-auto my-16 pt-10">
           <div className="grid grid-cols-1 gap-3 md:grid-cols-2 lg:grid-cols-2">
             <div className="flex justify-center rounded-xl">

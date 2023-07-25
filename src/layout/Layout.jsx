@@ -41,10 +41,7 @@ const layout = (props) => {
               </ul>
             </div>
             <a className="btn btn-ghost normal-case text-xl">
-              <img
-                className="object-scale-down h-16 w-20"
-                src="src/assets/logo.png"
-              />
+              <img className="object-scale-down h-16 w-20" src="logo.png" />
             </a>
           </div>
 
